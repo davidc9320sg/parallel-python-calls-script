@@ -53,7 +53,7 @@ This helps to keep track of it in case it is necessary to _kill_ it (_with kindn
 In the example, each call to the python script passes a different value of ```-t``` (11, 12, 13, ...).
 
 You can change the script to call by adapting the code to your needs. 
-The call to the python script is in lines 37-39 of ```main.sh```. 
+The call to the python script is in lines 43-45 of ```main.sh```. 
 
 ## Launching the script
 
